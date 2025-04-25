@@ -1,2 +1,3 @@
 this is file c. 
 i am making changes in all the files. git 
+again changing the file
